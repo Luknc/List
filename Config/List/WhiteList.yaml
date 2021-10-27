@@ -10,13 +10,15 @@ payload:
   - DOMAIN,msg.umeng.com
   - DOMAIN,msg.umengcloud.com
   - DOMAIN,origin-a.akamaihd.net
+  - DOMAIN,picanalysis.vivo.com.cn
   - DOMAIN,pubads.g.doubleclick.net
   - DOMAIN,sycm.mmstat.com
   - DOMAIN,tracking.miui.com
-  - DOMAIN-SUFFIX,els.ztgame.com
+  - DOMAIN,xivanalysis.com
   - DOMAIN-SUFFIX,dizhensubao.getui.com
   - DOMAIN-SUFFIX,f.video.weibocdn.com
   - DOMAIN-SUFFIX,fus.cdn.krcom.cn
   - DOMAIN-SUFFIX,ol.epicgames.com
   - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
   - DOMAIN-KEYWORD,wb_ad
+  - DOMAIN-SUFFIX,els.ztgame.com
