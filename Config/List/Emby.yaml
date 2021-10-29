@@ -1,28 +1,33 @@
 payload:
-# > 流媒体emby关键词抽取
+# > keyword
   - DOMAIN-KEYWORD,emby
   - DOMAIN-KEYWORD,xeton.dev
   - DOMAIN-KEYWORD,kyarucloud.moe
   - DOMAIN-KEYWORD,ssky.me
   - DOMAIN-KEYWORD,embyclub.com
-# > 流媒体emby-nexitally服务器
+# > name
+  - PROCESS-NAME,emby
+  - PROCESS-NAME,emby.theater.exe
+  - PROCESS-NAME,electron
+  - PROCESS-NAME,electron.exe
+# > nexitally
   - DOMAIN-SUFFIX,emby.nexitally.com
-# > 流媒体emby-prpr服务器
+# > prpr
   - DOMAIN-SUFFIX,emby.prprcloud.com
-# > 流媒体emby-kyaru服务器
+# > kyaru
   - DOMAIN-SUFFIX,prpr.kyarucloud.moe
-# > 流媒体emby-haochi服务器
+# > haochi
   - DOMAIN-SUFFIX,public.kyarucloud.moe
-# > 流媒体emby-misty服务器
+# > emby-misty
   - DOMAIN-SUFFIX,emby.ssky.me
   - DOMAIN-SUFFIX,emby-cf.ssky.me
-# > 流媒体emby-maoxiong服务器
+# > maoxiong
   - DOMAIN-SUFFIX,embyclub.com
   - DOMAIN-SUFFIX,aws-hk.embyclub.com
   - DOMAIN-SUFFIX,aga-jp.embyclub.com
   - DOMAIN-SUFFIX,az-hk.embyclub.com
   - DOMAIN-SUFFIX,azsgp.embyclub.com
-# > 流媒体emby-Plus体验服
+# > Plus
   - DOMAIN-SUFFIX,emby.plusmedia.site
   - DOMAIN-SUFFIX,emby-cf.plusmedia.site 
   - DOMAIN-SUFFIX,emby.xeton.dev
