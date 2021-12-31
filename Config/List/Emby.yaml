@@ -5,11 +5,11 @@ payload:
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,xeton.dev
 # > pr
-  - DOMAIN,emby.prprcloud.com
-  - DOMAIN,prpr.kyarucloud.moe
+  - DOMAIN-SUFFIX,prprcloud.com
+  - DOMAIN-SUFFIX,kyarucloud.moe
 # > mx
   - DOMAIN,embyclub.com
 # > ms
   - DOMAIN-SUFFIX,aaa.ax
 # > cr
-  - DOMAIN,play.charontv.com
+  - DOMAIN-SUFFIX,charontv.com
