@@ -2,11 +2,8 @@ payload:
 # > KEYWORD
 #  - DOMAIN-KEYWORD,emby
 # > plus
-  - DOMAIN,emby.plusmedia.site
-  - DOMAIN,emby-cf.plusmedia.site
-  - DOMAIN,emby.xeton.dev
-  - DOMAIN,jellyfin.xeton.dev
-  - DOMAIN,movie.xeton.dev
+  - DOMAIN-SUFFIX,plusmedia.site
+  - DOMAIN-SUFFIX,xeton.dev
 # > pr
   - DOMAIN,emby.prprcloud.com
   - DOMAIN,prpr.kyarucloud.moe
