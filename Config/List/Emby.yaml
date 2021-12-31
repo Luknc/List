@@ -1,12 +1,18 @@
 payload:
-# > name
-  - PROCESS-NAME,emby
-  - PROCESS-NAME,emby.theater.exe
-  - PROCESS-NAME,electron
-  - PROCESS-NAME,electron.exe
-# > Plus
+# > KEYWORD
+#  - DOMAIN-KEYWORD,emby
+# > plus
   - DOMAIN,emby.plusmedia.site
   - DOMAIN,emby-cf.plusmedia.site
   - DOMAIN,emby.xeton.dev
   - DOMAIN,jellyfin.xeton.dev
   - DOMAIN,movie.xeton.dev
+# > pr
+  - DOMAIN,emby.prprcloud.com
+  - DOMAIN,prpr.kyarucloud.moe
+# > mx
+  - DOMAIN,embyclub.com
+# > ms
+  - DOMAIN-SUFFIX,aaa.ax
+# > cr
+  - DOMAIN,play.charontv.com
