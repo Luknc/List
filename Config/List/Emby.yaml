@@ -1,35 +1,12 @@
 payload:
-# > keyword
-  - DOMAIN-KEYWORD,emby
-  - DOMAIN-KEYWORD,xeton.dev
-  - DOMAIN-KEYWORD,kyarucloud.moe
-  - DOMAIN-KEYWORD,ssky.me
-  - DOMAIN-KEYWORD,embyclub.com
 # > name
   - PROCESS-NAME,emby
   - PROCESS-NAME,emby.theater.exe
   - PROCESS-NAME,electron
   - PROCESS-NAME,electron.exe
-# > nexitally
-  - DOMAIN,emby.nexitally.com
-# > prpr
-  - DOMAIN,emby.prprcloud.com
-# > kyaru
-  - DOMAIN,prpr.kyarucloud.moe
-# > haochi
-  - DOMAIN,public.kyarucloud.moe
-# > emby-misty
-  - DOMAIN,emby.ssky.me
-  - DOMAIN,emby-cf.ssky.me
-# > maoxiong
-  - DOMAIN,embyclub.com
-  - DOMAIN,aws-hk.embyclub.com
-  - DOMAIN,aga-jp.embyclub.com
-  - DOMAIN,az-hk.embyclub.com
-  - DOMAIN,azsgp.embyclub.com
 # > Plus
   - DOMAIN,emby.plusmedia.site
-  - DOMAIN,emby-cf.plusmedia.site 
+  - DOMAIN,emby-cf.plusmedia.site
   - DOMAIN,emby.xeton.dev
   - DOMAIN,jellyfin.xeton.dev
   - DOMAIN,movie.xeton.dev
