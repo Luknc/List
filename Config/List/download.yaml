@@ -1,4 +1,4 @@
- payload:
+payload:
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,chdbits.co
@@ -25,3 +25,4 @@
   - DOMAIN-SUFFIX,totheglory.im
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,tracker
