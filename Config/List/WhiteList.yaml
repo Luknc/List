@@ -21,3 +21,4 @@ payload:
   - DOMAIN-SUFFIX,fus.cdn.krcom.cn
   - DOMAIN-SUFFIX,ol.epicgames.com
   - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
+  - DOMAIN-KEYWORD,wb_ad
