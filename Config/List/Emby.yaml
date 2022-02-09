@@ -7,9 +7,9 @@ payload:
 # > pr
   - DOMAIN-SUFFIX,prprcloud.com
   - DOMAIN-SUFFIX,kyarucloud.moe
-# > mx
-  - DOMAIN,embyclub.com
 # > ms
   - DOMAIN-SUFFIX,aaa.ax
 # > cr
   - DOMAIN-SUFFIX,charontv.com
+# > mx
+  - DOMAIN-SUFFIX,maoxiong.cloud
