@@ -1,6 +1,4 @@
 payload:
-# > KEYWORD
-#  - DOMAIN-KEYWORD,emby
 # > plus
   - DOMAIN-SUFFIX,plusmedia.site
   - DOMAIN-SUFFIX,xeton.dev
