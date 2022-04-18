@@ -1,13 +1,13 @@
 payload:
 # > plus
-  - DOMAIN-SUFFIX,plusmedia.site
-  - DOMAIN-SUFFIX,xeton.dev
+  - '+.plusmedia.site'
+  - '+.xeton.dev'
 # > pr
-  - DOMAIN-SUFFIX,prprcloud.com
-  - DOMAIN-SUFFIX,kyarucloud.moe
+  - '+.prprcloud.com'
+  - '+.kyarucloud.moe'
 # > ms
-  - DOMAIN-SUFFIX,aaa.ax
+  - '+.aaa.ax'
 # > cr
-  - DOMAIN-SUFFIX,charontv.com
+  - '+.charontv.com'
 # > mx
-  - DOMAIN-SUFFIX,maoxiong.cloud
+  - '+.maoxiong.cloud'
