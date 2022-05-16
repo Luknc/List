@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
+  - DOMAIN-SUFFIX,smtp
   - DOMAIN-KEYWORD,aria2
   - DOMAIN-KEYWORD,thunder
   - DOMAIN-KEYWORD,xlliveud
@@ -31,30 +32,26 @@ payload:
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-KEYWORD,tracker
   - PROCESS-NAME,aria2c
-  - PROCESS-NAME,bitcomet
   - PROCESS-NAME,BitComet
-  - PROCESS-NAME,downloadservice
   - PROCESS-NAME,fdm
-  - PROCESS-NAME,folx
-  - PROCESS-NAME,nettransport
   - PROCESS-NAME,NetTransport
   - PROCESS-NAME,qbittorrent
-  - PROCESS-NAME,thunder
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,transmission-daemon
   - PROCESS-NAME,transmission-qt
-  - PROCESS-NAME,utorrent
   - PROCESS-NAME,uTorrent
-  - PROCESS-NAME,webtorrent
   - PROCESS-NAME,WebTorrent
+  - PROCESS-NAME,aria2c
+  - PROCESS-NAME,fdm
   - PROCESS-NAME,Folx
   - PROCESS-NAME,NetTransport
   - PROCESS-NAME,qbittorrent
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Transmission
   - PROCESS-NAME,transmission
+  - PROCESS-NAME,uTorrent
+  - PROCESS-NAME,WebTorrent
   - PROCESS-NAME,WebTorrent Helper
-  - PROCESS-NAME,webtorrenthelper
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,ss-local
   - PROCESS-NAME,ssr-local
@@ -66,5 +63,3 @@ payload:
   - PROCESS-NAME,hysteria
   - PROCESS-NAME,UUBooster
   - PROCESS-NAME,uugamebooster
-  - PROCESS-NAME,weiyun
-  - DOMAIN-SUFFIX,smtp
