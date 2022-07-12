@@ -108,37 +108,63 @@ payload:
   - DOMAIN-SUFFIX,u2.dmhy.org
   - DOMAIN-SUFFIX,uhdbits.org
   - DOMAIN-SUFFIX,xauat6.edu.cn
+  - DOMAIN-KEYWORD,announce
+  - DOMAIN-KEYWORD,torrent
+  - DOMAIN-KEYWORD,tracker
   - DOMAIN-KEYWORD,aria2
   - DOMAIN-KEYWORD,thunder
   - DOMAIN-KEYWORD,xlliveud
   - DOMAIN-KEYWORD,xunlei
   - DOMAIN-KEYWORD,yunpan
-  - DOMAIN-KEYWORD,announce
-  - DOMAIN-KEYWORD,torrent
-  - DOMAIN-KEYWORD,tracker
+  - PROCESS-NAME,aria2c
+  - PROCESS-NAME,aria2c.exe
+  - PROCESS-NAME,baidunetdisk.exe
+  - PROCESS-NAME,bitcomet
+  - PROCESS-NAME,bitcomet.exe
+  - PROCESS-NAME,bitcomet_x64.exe
+  - PROCESS-NAME,downloadservice
+  - PROCESS-NAME,downloadservice.exe
+  - PROCESS-NAME,fdm
+  - PROCESS-NAME,fdm.exe
+  - PROCESS-NAME,folx
+  - PROCESS-NAME,folx.exe
+  - PROCESS-NAME,nettransport
+  - PROCESS-NAME,nettransport.exe
+  - PROCESS-NAME,qbittorrent
+  - PROCESS-NAME,qbittorrent.exe
+  - PROCESS-NAME,thunder
+  - PROCESS-NAME,thunder.exe
+  - PROCESS-NAME,transmission
+  - PROCESS-NAME,transmission.exe
+  - PROCESS-NAME,utorrent
+  - PROCESS-NAME,utorrent.exe
+  - PROCESS-NAME,webtorrent
+  - PROCESS-NAME,webtorrent.exe
+  - PROCESS-NAME,webtorrenthelper
+  - PROCESS-NAME,webtorrenthelper.exe
+  - PROCESS-NAME,weiyun
+  - PROCESS-NAME,weiyun.exe
   - PROCESS-NAME,aria2c
   - PROCESS-NAME,BitComet
-  - PROCESS-NAME,bitcomet
-  - PROCESS-NAME,downloadservice
   - PROCESS-NAME,fdm
-  - PROCESS-NAME,Folx
-  - PROCESS-NAME,folx
   - PROCESS-NAME,NetTransport
-  - PROCESS-NAME,nettransport
   - PROCESS-NAME,qbittorrent
   - PROCESS-NAME,Thunder
-  - PROCESS-NAME,thunder
-  - PROCESS-NAME,Transmission
   - PROCESS-NAME,transmission-daemon
   - PROCESS-NAME,transmission-qt
+  - PROCESS-NAME,uTorrent
+  - PROCESS-NAME,WebTorrent
+  - PROCESS-NAME,aria2c
+  - PROCESS-NAME,fdm
+  - PROCESS-NAME,Folx
+  - PROCESS-NAME,NetTransport
+  - PROCESS-NAME,qbittorrent
+  - PROCESS-NAME,Thunder
+  - PROCESS-NAME,Transmission
   - PROCESS-NAME,transmission
   - PROCESS-NAME,uTorrent
-  - PROCESS-NAME,utorrent
   - PROCESS-NAME,WebTorrent
-  - PROCESS-NAME,webtorrent
   - PROCESS-NAME,WebTorrent Helper
-  - PROCESS-NAME,webtorrenthelper
-  - PROCESS-NAME,weiyun
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,ss-local
   - PROCESS-NAME,ssr-local
