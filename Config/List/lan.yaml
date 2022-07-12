@@ -1,9 +1,0 @@
-payload:
-  - '+.lan'
-  - '+.localdomain'
-  - '+.example'
-  - '+.invalid'
-  - '+.localhost'
-  - '+.test'
-  - '+.local'
-  - '+.home.arpa'
